@@ -1,1 +1,1 @@
-$ git clone https://github.com/hedaecra/zero_day.git 
+sudo git clone git@github.com:hedaecra/zero_day.git 
